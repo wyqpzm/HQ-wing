@@ -1,6 +1,6 @@
 ---
 title: Perfecting the Art of Perfection
-date: "2016-09-01T23:46:37.121Z"
+date: "2019-09-01T23:46:37.121Z"
 template: "post"
 draft: false
 slug: "perfecting-the-art-of-perfection"

@@ -18,9 +18,6 @@ const Page = ({ title, children }: Props) => {
       <div className={styles["page__inner"]}>
         {title && <h1 className={styles["page__title"]}>{title}</h1>}
         <div className={styles["page__body"]}>{children}</div>
-        <div className={styles.footer}>
-          <a href="http://beian.miit.gov.cn">蜀ICP备19033202号-1</a>
-        </div>
       </div>
     </div>
   );

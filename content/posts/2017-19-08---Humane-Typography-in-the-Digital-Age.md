@@ -1,6 +1,6 @@
 ---
 title: Humane Typography in the Digital Age
-date: "2017-08-19T22:40:32.169Z"
+date: "2020-08-19T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "humane-typography-in-the-digital-age"
